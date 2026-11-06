@@ -1,0 +1,51 @@
+{
+  "counter": 1000,
+  "purchases": {
+    "6316631024": [
+      {
+        "id": "etCKTGuT",
+        "track_code": "etCKTGuT",
+        "type": "gift",
+        "name": "🏆 کاپ قهرمانی × 1",
+        "count": 1,
+        "price_toman": 1008000,
+        "recipient": "Mahiiii_Pv",
+        "status": "paid",
+        "created_at": "2026-11-05T16:18:50.729265+00:00"
+      },
+      {
+        "id": "Ks9EN6Bq",
+        "track_code": "Ks9EN6Bq",
+        "type": "gift",
+        "name": "🧸 تدی × 1",
+        "count": 1,
+        "price_toman": 75600,
+        "recipient": "Mahiiii_Pv",
+        "status": "registered",
+        "created_at": "2026-11-05T16:19:51.076753+00:00"
+      },
+      {
+        "id": "oleGJ2os",
+        "track_code": "oleGJ2os",
+        "type": "gift",
+        "name": "🧸 تدی × 1",
+        "count": 1,
+        "price_toman": 75600,
+        "recipient": "Mahiiii_Pv",
+        "status": "registered",
+        "created_at": "2026-11-05T16:21:41.207841+00:00"
+      },
+      {
+        "id": "uwMbLvUu",
+        "track_code": "uwMbLvUu",
+        "type": "gift",
+        "name": "🧸 تدی × 1",
+        "count": 1,
+        "price_toman": 75600,
+        "recipient": "Mahiiii_Pv",
+        "status": "registered",
+        "created_at": "2026-11-05T16:24:05.668542+00:00"
+      }
+    ]
+  }
+}

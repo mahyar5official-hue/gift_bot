@@ -1,0 +1,69 @@
+{
+  "counter": 1004,
+  "tickets": {
+    "1001": {
+      "id": 1001,
+      "user_id": 6316631024,
+      "user_name": "Mahyar",
+      "user_username": "Mahiiii_Pv",
+      "messages": [
+        {
+          "from": "user",
+          "text": "📷 فیش پرداخت",
+          "time": "2026-11-05T19:48:50.732134"
+        }
+      ],
+      "status": "open",
+      "created_at": "2026-11-05T19:48:50.732237",
+      "track_code": "etCKTGuT"
+    },
+    "1002": {
+      "id": 1002,
+      "user_id": 6316631024,
+      "user_name": "Mahyar",
+      "user_username": "Mahiiii_Pv",
+      "messages": [
+        {
+          "from": "user",
+          "text": "📷 فیش پرداخت",
+          "time": "2026-11-05T19:49:51.077504"
+        }
+      ],
+      "status": "open",
+      "created_at": "2026-11-05T19:49:51.077541",
+      "track_code": "Ks9EN6Bq"
+    },
+    "1003": {
+      "id": 1003,
+      "user_id": 6316631024,
+      "user_name": "Mahyar",
+      "user_username": "Mahiiii_Pv",
+      "messages": [
+        {
+          "from": "user",
+          "text": "📷 فیش پرداخت",
+          "time": "2026-11-05T19:51:41.210743"
+        }
+      ],
+      "status": "open",
+      "created_at": "2026-11-05T19:51:41.210773",
+      "track_code": "oleGJ2os"
+    },
+    "1004": {
+      "id": 1004,
+      "user_id": 6316631024,
+      "user_name": "Mahyar",
+      "user_username": "Mahiiii_Pv",
+      "messages": [
+        {
+          "from": "user",
+          "text": "📷 فیش پرداخت",
+          "time": "2026-11-05T19:54:05.672233"
+        }
+      ],
+      "status": "open",
+      "created_at": "2026-11-05T19:54:05.672275",
+      "track_code": "uwMbLvUu"
+    }
+  }
+}

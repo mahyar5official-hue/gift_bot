@@ -1,0 +1,419 @@
+{
+  "users": {
+    "8921433139": {
+      "first_name": "Arvin..",
+      "username": "Arvinn0055",
+      "first_seen": "2026-11-05T15:54:33.700242+00:00",
+      "last_seen": "2026-11-05T15:54:33.700242+00:00",
+      "starts": 1
+    },
+    "7380622594": {
+      "first_name": "MΛHYΛR",
+      "username": "Wraith_PM",
+      "first_seen": "2026-11-05T15:55:06.271918+00:00",
+      "last_seen": "2026-11-05T16:24:20.466615+00:00",
+      "starts": 1
+    },
+    "6316631024": {
+      "first_name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "first_seen": "2026-11-05T16:12:01.655012+00:00",
+      "last_seen": "2026-11-05T16:24:03.017526+00:00",
+      "starts": 3
+    }
+  },
+  "events": [
+    {
+      "uid": 8921433139,
+      "name": "Arvin..",
+      "username": "Arvinn0055",
+      "action": "/start",
+      "time": "2026-11-05T15:54:33.700242+00:00"
+    },
+    {
+      "uid": 7380622594,
+      "name": "MΛHYΛR",
+      "username": "Wraith_PM",
+      "action": "/start",
+      "time": "2026-11-05T15:55:06.271918+00:00"
+    },
+    {
+      "uid": 7380622594,
+      "name": "MΛHYΛR",
+      "username": "Wraith_PM",
+      "action": "shop",
+      "time": "2026-11-05T15:55:08.566426+00:00"
+    },
+    {
+      "uid": 7380622594,
+      "name": "MΛHYΛR",
+      "username": "Wraith_PM",
+      "action": "buy_gifts",
+      "time": "2026-11-05T15:55:10.218062+00:00"
+    },
+    {
+      "uid": 7380622594,
+      "name": "MΛHYΛR",
+      "username": "Wraith_PM",
+      "action": "gift_set_caption",
+      "time": "2026-11-05T15:55:12.080839+00:00"
+    },
+    {
+      "uid": 7380622594,
+      "name": "MΛHYΛR",
+      "username": "Wraith_PM",
+      "action": "shop",
+      "time": "2026-11-05T15:55:20.755945+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "/start",
+      "time": "2026-11-05T16:12:01.655012+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "send_receipt_1080",
+      "time": "2026-11-05T16:12:09.509748+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "/start",
+      "time": "2026-11-05T16:12:21.737446+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "shop",
+      "time": "2026-11-05T16:12:27.132731+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "buy_stars",
+      "time": "2026-11-05T16:12:29.811679+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "shop",
+      "time": "2026-11-05T16:12:56.692931+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "buy_gifts",
+      "time": "2026-11-05T16:13:16.755244+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_cup",
+      "time": "2026-11-05T16:13:21.609380+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_diamond",
+      "time": "2026-11-05T16:13:23.473083+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_giftbox",
+      "time": "2026-11-05T16:13:25.899045+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_cup",
+      "time": "2026-11-05T16:13:27.522390+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_cup",
+      "time": "2026-11-05T16:13:28.984728+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_ring",
+      "time": "2026-11-05T16:13:31.348951+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_ring",
+      "time": "2026-11-05T16:13:33.526637+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_rose",
+      "time": "2026-11-05T16:13:34.948463+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_ring",
+      "time": "2026-11-05T16:13:36.948988+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_rose",
+      "time": "2026-11-05T16:13:39.076961+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_ring",
+      "time": "2026-11-05T16:13:41.581609+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "/start",
+      "time": "2026-11-05T16:13:51.535611+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "shop",
+      "time": "2026-11-05T16:13:56.643983+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "buy_gifts",
+      "time": "2026-11-05T16:14:00.537778+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_ring",
+      "time": "2026-11-05T16:14:12.199606+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_cup",
+      "time": "2026-11-05T16:14:16.060431+00:00"
+    },
+    {
+      "uid": 7380622594,
+      "name": "MΛHYΛR",
+      "username": "Wraith_PM",
+      "action": "buy_gifts",
+      "time": "2026-11-05T16:16:10.924439+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_set_caption",
+      "time": "2026-11-05T16:18:03.737719+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_confirm",
+      "time": "2026-11-05T16:18:15.029377+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "support",
+      "time": "2026-11-05T16:18:17.542348+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "main_menu",
+      "time": "2026-11-05T16:19:10.846602+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "shop",
+      "time": "2026-11-05T16:19:17.679304+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "buy_gifts",
+      "time": "2026-11-05T16:19:21.489690+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_set_caption",
+      "time": "2026-11-05T16:19:25.113119+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_confirm",
+      "time": "2026-11-05T16:19:40.783375+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "support",
+      "time": "2026-11-05T16:19:48.704747+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "main_menu",
+      "time": "2026-11-05T16:21:03.403020+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "shop",
+      "time": "2026-11-05T16:21:07.723681+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "buy_gifts",
+      "time": "2026-11-05T16:21:09.609310+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_heart",
+      "time": "2026-11-05T16:21:13.533608+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_champagne",
+      "time": "2026-11-05T16:21:17.160697+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_teddy",
+      "time": "2026-11-05T16:21:20.929065+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_set_caption",
+      "time": "2026-11-05T16:21:24.793396+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_confirm",
+      "time": "2026-11-05T16:21:36.270590+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "support",
+      "time": "2026-11-05T16:21:38.682702+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "main_menu",
+      "time": "2026-11-05T16:23:42.075640+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "shop",
+      "time": "2026-11-05T16:23:43.936675+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "buy_gifts",
+      "time": "2026-11-05T16:23:45.651054+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_set_caption",
+      "time": "2026-11-05T16:23:49.295716+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "gift_confirm",
+      "time": "2026-11-05T16:23:58.534940+00:00"
+    },
+    {
+      "uid": 6316631024,
+      "name": "Mahyar",
+      "username": "Mahiiii_Pv",
+      "action": "support",
+      "time": "2026-11-05T16:24:03.017526+00:00"
+    },
+    {
+      "uid": 7380622594,
+      "name": "MΛHYΛR",
+      "username": "Wraith_PM",
+      "action": "approve_1004",
+      "time": "2026-11-05T16:24:17.374376+00:00"
+    },
+    {
+      "uid": 7380622594,
+      "name": "MΛHYΛR",
+      "username": "Wraith_PM",
+      "action": "send_receipt_1004",
+      "time": "2026-11-05T16:24:20.466615+00:00"
+    }
+  ]
+}
